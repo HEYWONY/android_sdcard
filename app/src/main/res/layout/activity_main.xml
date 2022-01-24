@@ -14,23 +14,23 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="mOnClick"
-        android:text="저장하기(외부 공용 저장소)"/>
+        android:text="저장하기 (외부 공용 저장소)"/>
     <Button
         android:id="@+id/btnLoad1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="mOnClick"
-        android:text="읽어오기(외부 공용 저장소)"/>
+        android:text="읽어오기 (외부 공용 저장소)"/>
     <Button
         android:id="@+id/btnSave2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="mOnClick"
-        android:text="저장하기(외부 전용 저장소)"/>
+        android:text="저장하기 (외부 전용 저장소)"/>
     <Button
         android:id="@+id/btnLoad2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="mOnClick"
-        android:text="읽어오기(외부 전용 저장소)"/>
+        android:text="읽어오기 (외부 전용 저장소)"/>
 </LinearLayout>
